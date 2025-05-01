@@ -16,7 +16,6 @@ This is my research project for my Cybersecurity Internship.
 ## 📜 License
 See the [LICENSE](LICENSE) file for license details.
 
-
 ## 🔍 Project Summary
 This project explores how Artificial Intelligence (AI) is being used in social engineering attacks and phishing campaigns. It covers:
 - The role of AI in automating and improving phishing tactics
