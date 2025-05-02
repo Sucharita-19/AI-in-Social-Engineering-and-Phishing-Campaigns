@@ -35,4 +35,3 @@ This work aims to raise awareness about the growing use of AI in cyber attacks a
 
 ✍️ Author: Sucharita Das  
 📍 From: Kolkata, West Bengal  
-🎓 B.A., East Calcutta Girls’ College (WBSU), CGPA: 8.10  
