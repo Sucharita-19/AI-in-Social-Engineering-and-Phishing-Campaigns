@@ -5,13 +5,13 @@ This is my research project for my Cybersecurity Internship.
 # AI in Social Engineering and Phishing Campaigns
 
 ## 📄 Research Paper
-- [Final Paper](research-paper/final_research_paper.pdf)
+- [Final Paper](01-research-paper/final_research_paper.pdf)
 
 ## 🎤 Presentation
-- [Project Slides](presentation/Presentation.pdf)
+- [Project Slides](02-presentation/project_presentation.pdf)
 
 ## 🎬 Demo
-- [Watch Demo](demo/demo_video_link.txt)
+- [Watch Demo](03-demo/demo_video_link.txt)
 
 ## 📜 License
 See the [LICENSE](LICENSE) file for license details.
